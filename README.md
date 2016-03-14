@@ -5,6 +5,8 @@ Udacity Android Nanodegree Project 3 Combined, Submission Repository
 Project 3 required one, high-level repository for submission.  This contains both sub-projects, Alexandria and FootballScores.
 
 ###Alexandria and FootballScores
+To see the history of each project, visit their repositories:
+
 [The working repository for Alexandria](https://github.com/JimBasso/Alexandria)
 
 [The working repository for FootballScores](https://github.com/JimBasso/FootballScores)
